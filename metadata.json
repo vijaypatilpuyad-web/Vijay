@@ -1,0 +1,6 @@
+{
+  "name": "ITI Electrician Master Mock Test",
+  "description": "Premium CBT Mock Test app for ITI Electrician students with Marathi and English languages, progress analysis, real NCVT-style exam screen, and AI study coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
